@@ -1,2 +1,4 @@
 # this is my local repo
-## hello
+## hello 
+# this is feature 1 text
+# this is line 2
